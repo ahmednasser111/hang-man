@@ -1,0 +1,21 @@
+{
+	"programming": ["php", "javascript", "Go", "sql", "R", "python", "java", "ruby", "typescript"],
+	"movies": ["Prestige", "Coco", "Inception", "Interstellar", "Up", "Parasite"],
+	"people": [
+		"Albert Einstein", "Alexander the Great", "Cleopatra", "Mahatma Gandhi", 
+		"Leonardo da Vinci", "Nelson Mandela", "Winston Churchill", 
+		"Mother Teresa", "Abraham Lincoln", "Queen Elizabeth II",
+		"Michael Jackson", "Stephen Hawking", "Bill Gates", "Steve Jobs"
+	],
+	"countries": [
+		"Egypt", "Qatar", "Palestine", "Yemen", "Syria", "Bahrain", 
+		"Norway", "Vietnam", "New Zealand", "Greece", "Singapore", "Morocco",
+		"United Arab Emirates", "United States of America", "United Kingdom",
+		"Saudi Arabia", "South Africa", "Costa Rica", "North Korea"
+	],
+	"animals": ["Elephant", "Lion", "Tiger", "Giraffe", "Zebra", "Panda"],
+	"fruits": ["Apple", "Banana", "Orange", "Strawberry", "Grapes", "Watermelon"],
+	"colors": ["Red", "Blue", "Green", "Yellow", "Purple", "Orange"],
+	"sports": ["Football", "Basketball", "Tennis", "Swimming", "Running", "Cycling"],
+	"professions": ["Doctor", "Engineer", "Teacher", "Artist", "Chef", "Pilot"]
+}

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Hangman</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<div class="container">
+		<div class="game-info">
+			<div class="game-name">
+				Hangman
+			</div>
+			<div class="category">
+				Word From: <span></span>
+			</div>
+		</div>
+	<div class="row">
+			<div class="hangman-draw">
+				<div class="draw wrong-1">
+					<div class="stand wrong-2"></div>
+					<div class="hang wrong-3"></div>
+					<div class="rope wrong-4"></div>
+					<div class="man">
+						<div class="head wrong-5"></div>
+						<div class="body wrong-6"></div>
+						<div class="hands wrong-7"></div>
+						<div class="legs wrong-8"></div>
+					</div>
+				</div>
+			</div>
+			<div class="letters"></div>
+	</div>
+	<div class="letters-guess">
+		<p>Guessed Letter:</p>
+	</div>
+	</div>
+	<audio src="audios/mixkit-achievement-bell-600.wav" id="success"></audio>
+	<audio src="audios/mixkit-failure-arcade-alert-notification-240.wav" id="fail"></audio>
+	<script src="main.js"></script>
+</body>
+</html>
